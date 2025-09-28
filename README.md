@@ -1,2 +1,2 @@
-# Project1
-Project1 Test
+# weather-checker
+Kullanıcının girdiği şehir için hava durumunu gösterir.
